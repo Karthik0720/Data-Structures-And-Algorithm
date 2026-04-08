@@ -1,6 +1,6 @@
 # Two pointer Approach
 
-# height = [1,8,6,2,5,4,8,3,7] o/p = 49
+# height = [1,8,6,2,5,4,8,3,7] o/p = 49 find maximum volume to store most water
 
 height=[1,8,6,2,5,4,8,3,7]
 max_vol=0
